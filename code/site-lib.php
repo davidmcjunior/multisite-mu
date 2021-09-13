@@ -1,10 +1,5 @@
 <?php
 
-/**
- * Plugin Name: Exactech Class Library
- * Description: Includes support class files and objects for Exactech WP plugins.
- */
-
 /* Exit if accessed directly. */
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
